@@ -21,8 +21,8 @@
     ],
     "require": {
         "goaop/framework": "dev-master",
-        "phpunit/phpunit": "^9.5",
-        "symfony/finder": "^4.4 | ^5.4 | ^6.0"
+        "phpunit/phpunit": "*",
+        "symfony/finder": "*"
     },
     "require-dev": {
         "codeception/codeception": "^4.1",
